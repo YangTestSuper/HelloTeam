@@ -5,3 +5,6 @@ print("Everywhere is peace!")
 print("Python is perfect!")
 
 print("I like study!")
+
+print("I do not like sleep!")
+
