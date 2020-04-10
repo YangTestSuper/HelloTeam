@@ -8,3 +8,4 @@ print("I like study!")
 
 print("I do not like sleep!")
 
+print("It is interesting!")
